@@ -1,5 +1,6 @@
 # Portfolio-
 
+I have designed a personal portfolio using CSS, HTML and javaScript.
 The portfolio comprises several key sections, each meticulously designed to offer a comprehensive overview of my skills, experience, and work:
 
 Header Section: At the very top, you will find my name or logo, which serves as a visual representation of my professional identity. Optionally, a brief introduction or tagline has been included to provide a snapshot of my aspirations and values.
